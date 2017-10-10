@@ -1,0 +1,3 @@
+C:\Users\Bruno\documents\visual studio 2015\Projects\AULA 1\AULA 1\bin\Debug\AULA 1.exe.config
+C:\Users\User\Desktop\AULA 1\AULA 1\bin\Debug\AULA 1.exe.config
+C:\Users\User\Desktop\AULA 1\AULA 1\obj\Debug\entityFramework.csprojResolveAssemblyReference.cache
